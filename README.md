@@ -15,7 +15,7 @@
 
 <div align="center">
 
-## 🛠 Stack
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-## 📊 Stats
+## Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRenck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRenck&layout=compact&theme=tokyonight&hide_border=true"/>
