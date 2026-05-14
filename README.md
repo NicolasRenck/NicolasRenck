@@ -11,8 +11,8 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRenck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRenck&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasRenck&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&bg_color=1a1b27"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRenck&layout=compact&theme=tokyonight&hide_border=true&title_color=70a5fd&bg_color=1a1b27&langs_count=6"/>
 
 <br/>
 
