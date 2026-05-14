@@ -1,11 +1,3 @@
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
-
-###
-
 <h1 align="left">Nicolas Renck - Backend Developer · Python · Django · DRF</h1>
 
 ###
