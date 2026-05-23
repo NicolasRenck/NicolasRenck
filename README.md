@@ -29,3 +29,10 @@
 </div>
 
 ###
+
+## 🖥️ Projetos em Destaque
+
+### 🏠 [Sistema Imobiliário](https://github.com/NicolasRenck/sistema-imobiliario)
+> Sistema web para gestão de imóveis e proprietários com sincronização Google Sheets e upload via Cloudinary. [🔗 Demo](https://sistema-imobiliario.netlify.app)
+
+![Python](https://img.shields.io/badge/Python-blue) ![Django](https://img.shields.io/badge/Django-green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) ![Docker](https://img.shields.io/badge/Docker-blue)
