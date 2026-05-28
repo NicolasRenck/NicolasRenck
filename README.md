@@ -13,7 +13,7 @@
 ## Projetos em Destaque
 
 ### [FinTrack](https://github.com/NicolasRenck/fintrack)
-> Personal finance management web app with a REST API built in Django. Track income and expenses, schedule recurring bills, and export monthly reports as PDF. [🔗 Demo](https://fintrackapi.netlify.app) · [📖 API Docs](https://fintrack-api-flqh.onrender.com/api/docs/)
+> Aplicação web de gestão financeira pessoal com API REST em Django. Controle de receitas e despesas, agendamento de contas com recorrência automática e exportação de relatórios mensais em PDF. [🔗 Demo](https://fintrackapi.netlify.app) · [📖 API Docs](https://fintrack-api-flqh.onrender.com/api/docs/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
