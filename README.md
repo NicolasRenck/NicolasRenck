@@ -1,11 +1,9 @@
 # Nicolas Renck - Backend Developer · Python · Django · DRF
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-renck-75ba74232)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nicolas.renck@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5551999255155)
@@ -13,6 +11,18 @@
 ---
 
 ## Projetos em Destaque
+
+### [FinTrack](https://github.com/NicolasRenck/fintrack)
+> Personal finance management web app with a REST API built in Django. Track income and expenses, schedule recurring bills, and export monthly reports as PDF. [🔗 Demo](https://fintrackapi.netlify.app) · [📖 API Docs](https://fintrack-api-flqh.onrender.com/api/docs/)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-red?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white)
+
+---
 
 ### [Sistema Imobiliário](https://github.com/NicolasRenck/sistema-imobiliario)
 > Sistema web interno para gestão de imóveis e proprietários. Corretores cadastram e acompanham o portfólio com sincronização automática com Google Sheets e upload de fotos via Cloudinary. [🔗 Demo](https://sistema-imobiliario.netlify.app) · [📖 API Docs](https://sistema-imobiliario-fv6g.onrender.com/api/docs/)
@@ -52,10 +62,10 @@
 ## Stack
 
 | Backend | Banco de Dados | DevOps | Ferramentas |
-|---------|---------------|--------|-------------|
+|---------|----------------|--------|-------------|
 | Python | PostgreSQL | Docker | Git |
 | Django | Neon | Render | Swagger |
-| Django REST Framework | | | JWT |
+| Django REST Framework | | Netlify | JWT |
 
 ---
 
